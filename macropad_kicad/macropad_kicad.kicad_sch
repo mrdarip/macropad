@@ -2363,7 +2363,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 180.34 121.92 0)
 			(effects
 				(font
@@ -2433,7 +2433,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 233.68 87.63 0)
 			(effects
 				(font
@@ -2518,7 +2518,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 231.14 81.28 0)
 			(effects
 				(font
@@ -2586,7 +2586,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 205.74 121.92 0)
 			(effects
 				(font
@@ -2722,7 +2722,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 208.28 87.63 0)
 			(effects
 				(font
@@ -2810,7 +2810,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 233.68 128.27 0)
 			(effects
 				(font
@@ -2896,7 +2896,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 180.34 81.28 0)
 			(effects
 				(font
@@ -2966,7 +2966,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 233.68 107.95 0)
 			(effects
 				(font
@@ -3052,7 +3052,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 205.74 101.6 0)
 			(effects
 				(font
@@ -3121,7 +3121,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 208.28 107.95 0)
 			(effects
 				(font
@@ -3208,7 +3208,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 208.28 128.27 0)
 			(effects
 				(font
@@ -3296,7 +3296,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 256.54 87.63 0)
 			(effects
 				(font
@@ -3382,7 +3382,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "XIAO_PCB:MOUDLE14P-2.54-21X17.8MM"
 			(at 121.92 82.55 0)
 			(effects
 				(font
@@ -3486,7 +3486,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 205.74 81.28 0)
 			(effects
 				(font
@@ -3555,7 +3555,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 182.88 107.95 0)
 			(effects
 				(font
@@ -3641,7 +3641,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 262.89 117.856 0)
 			(effects
 				(font
@@ -3720,7 +3720,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 256.54 107.95 0)
 			(effects
 				(font
@@ -3940,7 +3940,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 254 81.28 0)
 			(effects
 				(font
@@ -4010,7 +4010,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 251.46 128.27 0)
 			(effects
 				(font
@@ -4096,7 +4096,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 180.34 101.6 0)
 			(effects
 				(font
@@ -4165,7 +4165,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 182.88 128.27 0)
 			(effects
 				(font
@@ -4251,7 +4251,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 254 101.6 0)
 			(effects
 				(font
@@ -4520,7 +4520,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 231.14 101.6 0)
 			(effects
 				(font
@@ -4663,7 +4663,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 182.88 87.63 0)
 			(effects
 				(font
@@ -4749,7 +4749,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 231.14 121.92 0)
 			(effects
 				(font
