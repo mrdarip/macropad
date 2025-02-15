@@ -71,9 +71,9 @@ module case_feet() {
 
 
 
-rotate([0,-90-angle,0]){
+rotate([0,-angle,0]){
     color(c = "green") 
-    //pcb();
+   pcb();
 
 translate([-case_thickness/2,-case_thickness/2,-case_thickness/2]) 
 case();
