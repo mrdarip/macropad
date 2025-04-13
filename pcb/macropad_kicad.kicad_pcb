@@ -31312,8 +31312,20 @@
 		(layer "Edge.Cuts")
 		(uuid "63c55790-f5ef-4377-9f1b-f1b15c7fc9a5")
 	)
+	(gr_text "bidimacropad"
+		(at 113.284 38.6588 0)
+		(layer "F.SilkS")
+		(uuid "328bd7e4-61e5-4d51-8f53-17ed63905a55")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "XIAO\nHERE!!1!"
-		(at 115.57 37.6936 0)
+		(at 115.57 34.3916 0)
 		(layer "F.SilkS")
 		(uuid "971ba8f2-620b-4889-9667-7973343816fd")
 		(effects
